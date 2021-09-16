@@ -1,7 +1,5 @@
 """
-This file asks the user for file name of th sudoku, pre-porcesses it,
-finds the corners, crops the sudoku board
-and returns the array of the cells of the sudoku
+This file asks the user for file name of thE sudoku, pre-processes it, finds the corners, crops the sudoku board and returns the array of the cells of the sudoku
 """
 
 import cv2
