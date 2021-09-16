@@ -11,6 +11,7 @@ Created a Sudoku Solver AI using python and Open CV to read a Sudoku puzzle from
 ```
 python3 main.py
 ```
+Note: I haven't uploaded KNN.pickel as that file was over 100MB.
 
 ## Steps
 1. **Import the image**
