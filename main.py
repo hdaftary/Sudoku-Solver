@@ -34,7 +34,7 @@ if __name__ == '__main__':
     print("Image Grid extracted")
 
     # note we have already created and stored the model but if you want to do that again use the following command
-    create_and_save_Model()
+    # create_and_save_Model()
 
     # Sudoku extract
     sudoku = sudoku_extracted(image_grid)
